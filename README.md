@@ -11,7 +11,7 @@ Order by challenge number first and then by App name
 
 ### 2019 - 2020
 | Mini | App Name | Design Technologies | Dev Technologies | Creators | Platforms |
-|------|------|--------------|--------------|---------|
+|------|------|--------------|--------------|---------|------|
 |1|[Dystopian](https://apps.apple.com/us/app/dystopian/id1465940148)|| Game Center, SpriteKit || iOS |
 |1|[Flua: Ansiedade](https://apps.apple.com/br/app/flua-ansiedade/id1469923904)|| iOS |
 |1|[Persist](https://apps.apple.com/br/app/persist/id1469632896)|||||
