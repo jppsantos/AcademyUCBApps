@@ -1,6 +1,6 @@
 # Apple Developer Academy UCB - Apps 
 
-List of apps developed during [Academy](https://developeracademyucb.com.br) Challenges.
+List of apps developed during [Academy](https://developeracademyucb.com.br) Challenges .
 
 Check out this [video](https://www.youtube.com/watch?v=GMFP9rOa5iA)  to learn more about this incredible project.
 
@@ -10,9 +10,9 @@ Order by challenge number first and then by App name
 <!-- If your application is not part of any mini challenge type "-" in the Mini n˚ column. -->
 
 ### 2019 - 2020
-|Mini| App Name | Design Technologies | Dev Technologies |
-|------|------|--------------|--------------|--------------|--------------|
-|1|[Flua:Ansiedade](https://apps.apple.com/br/app/flua-ansiedade/id1469923904)|||
+| Mini | App Name | Design Technologies | Dev Technologies |
+|------|------|--------------|--------------|
+|1|[Flua: Ansiedade](https://apps.apple.com/br/app/flua-ansiedade/id1469923904)|||
 |1|[Persist](https://apps.apple.com/br/app/persist/id1469632896)|||
 |2|[Reformise](https://apps.apple.com/br/app/reformise/id1480899346)|||
 |2|[Remember Me - Caregiver](https://apps.apple.com/br/app/remember-me-caregiver/id1481000591)|||
@@ -25,5 +25,5 @@ Order by challenge number first and then by App name
 
 
 ### 2018 - 2019
-| App Name | Design Technologies | Dev Technologies | Members |
-|------|--------------|--------------|--------------|--------------|
+| Mini | App Name | Design Technologies | Dev Technologies |
+|------|------|--------------|--------------|
