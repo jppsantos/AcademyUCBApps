@@ -28,7 +28,7 @@ Order by challenge number first and then by App name
 |4|[Socium](https://apps.apple.com/br/app/socium/id1513637942)|| CloudKit, Git Flow, UIKit || iOS |
 |4|[Synus](https://apps.apple.com/pt/app/synus/id1514656519)| Adobe Illustrator, Adobe XD | UIKit, SwiftUI, Vapor | [Alexandra Danúbia](https://www.linkedin.com/in/alexandra-charmen-07836b163/), [Daniel Leal](https://www.linkedin.com/in/daniel-leal-de-sousa-47b53816b/), [Gustavo Feliciano](https://www.linkedin.com/in/gustavo-feliciano-figueiredo-85947016a/), [Lucas Costa](https://www.linkedin.com/in/lucas-costa-52257b170/), [Paulo Ricardo](https://www.linkedin.com/in/pauloricardoav/) | iOS |
 |5|[BackUp!](https://apps.apple.com/us/app/id1519297748)|| Git Flow, HealthKit, SwiftUI, WatchKit || watchOS |
-|5|[Take on time](https://apps.apple.com/us/app/id1519526356)|| Git Flow, CloudKit, CoreData, SwiftUI | Carlos Henrique, Eduardo Airton, Vitória de Oliveira| watchOS |
+|5|[Take on time](https://apps.apple.com/us/app/id1519526356)|| Git Flow, CloudKit, CoreData, SwiftUI | Carlos Henrique, Eduardo Airton, Vitória de Oliveira| iOS, watchOS |
 |5|[BackUp!](https://apps.apple.com/us/app/id1519297748)|| Git Flow, HealthKit, SwiftUI, WatchKit || watchOS |
 |5|[StopSmoking.](https://apps.apple.com/br/app/stopsmoking/id1519508820)| Adobe Illustrator, XD| UIKit, CoreData, WatchKit, Git Flow ||| 
 |5|[Time Meals](https://apps.apple.com/us/app/id1519529652)| Adobe Illustrator, XD | WatchKit, SpriteKit, CoreData, Git Flow || watchOS |
