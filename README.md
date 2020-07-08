@@ -20,7 +20,7 @@ Order by challenge number first and then by App name
 |2|[Remember Me - Caregiver](https://apps.apple.com/br/app/remember-me-caregiver/id1481000591)|| CloudKit, CoreData, UIKit | Amanda Congiu, Caio Azevedo, Eduardo Airton, Guilherme Dalosto, Pedro Paulo| iOS|
 |3|[Amazeing Food](https://apps.apple.com/br/app/amazeing-food/id1495912117)|||||
 |3|[Clash Dash](https://apps.apple.com/us/app/clash-dash/id1498377216)|| GameplayKit, SceneKit || tvOS |
-|3|[Final Court](https://apps.apple.com/en/app/final-court/id1490481295)|| SpriteKit | Alexandra Danúbia, Gabriel Ferraz, Guilherme Dalosto, Igor Vitor | tvOS |
+|3|[Final Court](https://apps.apple.com/en/app/final-court/id1490481295)|| SpriteKit | Alexandra Danúbia, Gabriel Ferraz, Guilherme Dalosto, Igor de Castro, Vitor Ciccarini | tvOS |
 |3|[Meeting minutes.](https://apps.apple.com/br/app/meeting-minutes/id1497013430)| Adobe XD | UIKit, CloudKit, Multipeer Connectivity |[Bernardo Nunes](https://www.linkedin.com/in/bernardo-jacob-nunes-388b32185/), [Brenda Mascarenhas](https://www.linkedin.com/in/brmasc/), [Caio Azevedo](https://www.linkedin.com/in/caio-azevedo-de-almeida-90754a17b/), [Lucas Costa](https://www.linkedin.com/in/lucas-costa-52257b170/), [Paulo Ricardo](https://www.linkedin.com/in/pauloricardoav/) | iOS, tvOS |
 |4|[HiFuture](https://apps.apple.com/br/app/hifuture/id1510629091)| Adobe Illustrator, XD, Photoshop | UIKit, SwiftUI, CoreData|||
 |4|[Pommo](https://apps.apple.com/az/app/pommo/id1513669255)|||||
