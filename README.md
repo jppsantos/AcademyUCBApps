@@ -16,7 +16,7 @@ Order by challenge number first and then by App name
 |1|[Flua: Ansiedade](https://apps.apple.com/br/app/flua-ansiedade/id1469923904)||||iOS|
 |1|[No Chicken for Dinner](https://apps.apple.com/us/app/no-chicken-for-dinner/id1469215263)|| Game Center, SpriteKit | Adriano Victor, Alexandra Danúbia, Daniel Leal, Fabio França, Guilherme Dalosto | iOS |
 |1|[Persist](https://apps.apple.com/br/app/persist/id1469632896)|||| iOS |
-|2|[Plantare](https://apps.apple.com/br/app/plantare/id1480289387)|| UIKit, SpriteKit | Gabriel Ferraz, Lélio Jorge, Lucas Costa, Lucas Guimarães, Victor Dângelo Ciccarini | watchOS |
+|2|[Plantare](https://apps.apple.com/br/app/plantare/id1480289387)|| UIKit, SpriteKit | Gabriel Ferraz, Lélio Jorge, Lucas Costa, Lucas Guimarães, Victor Dângelo Ciccarini | iOS |
 |2|[Reformise](https://apps.apple.com/br/app/reformise/id1480899346)|||||
 |2|[Remember Me - Caregiver](https://apps.apple.com/br/app/remember-me-caregiver/id1481000591)|| CloudKit, CoreData, UIKit | Amanda Congiu, Caio Azevedo, Eduardo Airton, Guilherme Dalosto, Pedro Paulo| iOS|
 |3|[Amazeing Food](https://apps.apple.com/br/app/amazeing-food/id1495912117)|||||
